@@ -1,0 +1,11 @@
+{
+  "name": "grunt-json-concat",
+  "version": "0.0.0",
+  "description": "Grunt task to create a single JSON file from many sources.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yola/grunt-json-concat.git"
+  },
+  "author": "Yola Engineering <engineers@yola.com>",
+  "homepage": "https://github.com/yola/grunt-json-concat"
+}
