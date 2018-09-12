@@ -1,5 +1,5 @@
 {
-  "name": "grunt-json-concat",
+  "name": "@yola/grunt-json-concat",
   "version": "0.0.1",
   "description": "Grunt task to create a single JSON file from many sources.",
   "repository": {
